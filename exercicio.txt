@@ -1,0 +1,13 @@
+Comandos 
+
+esqueci de anotar rs
+
+Criando as TAGS
+
+git tag -a v1.2.0 c47d64e5bd264aa923662961950d2a0c146f1123
+
+git tag -a v1.3.0 6c655040891aad37e8558efeb306a50aba0fbb10
+
+git push origin v1.2.0
+
+git push origin v1.3.0
